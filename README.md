@@ -5,11 +5,11 @@ English to Morse Code Translator (PIC16F877A)
   It takes English text input and converts it into Morse code signals, which can be output as LED blinks or buzzer sounds.
 
 🚀 Features
-  Converts English letters and numbers into Morse code signals
-  Outputs Morse code as LED blinks or buzzer sounds
-  Implements Assembly Language programming for efficient microcontroller execution
-  Uses PIC16F877A microcontroller for real-time processing
-  PowerPoint presentation included for project explanation
+  Converts English letters and numbers into Morse code signals.
+  Outputs Morse code as LED blinks or buzzer sounds.
+  Implements Assembly Language programming for efficient microcontroller execution.
+  Uses PIC16F877A microcontroller for real-time processing.
+  PowerPoint presentation included for project explanation.
 
 🛠️ Hardware & Software Requirements
 Hardware:
