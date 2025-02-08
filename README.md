@@ -1,4 +1,5 @@
 English to Morse Code Translator (PIC16F877A)
+
 📜 Overview
   This project is an English to Morse Code Translator implemented using Assembly Language on a PIC16F877A microcontroller. 
   It takes English text input and converts it into Morse code signals, which can be output as LED blinks or buzzer sounds.
