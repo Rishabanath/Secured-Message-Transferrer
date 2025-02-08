@@ -13,15 +13,15 @@ English to Morse Code Translator (PIC16F877A)
 
 🛠️ Hardware & Software Requirements
 Hardware:
-  PIC16F877A Microcontroller
-  LEDs/Buzzer for Morse code output
-  16x2 LCD Display (optional) for text output
-  Push Buttons for input (if using manual input method)
-  Power Supply (5V)
+  PIC16F877A Microcontroller.
+  LEDs/Buzzer for Morse code output.
+  16x2 LCD Display (optional) for text output.
+  Push Buttons for input (if using manual input method).
+  Power Supply (5V).
 Software:
-  MPLAB IDE (for Assembly coding & simulation)
-  PIC Programmer (e.g., PICkit3) for flashing the code
-  Proteus (for circuit simulation)
+  MPLAB IDE (for Assembly coding & simulation).
+  PIC Programmer (e.g., PICkit3) for flashing the code.
+  Proteus (for circuit simulation).
 
 📌 How It Works
   The user inputs an English letter or number.
@@ -34,20 +34,20 @@ Software:
   Compile and generate the HEX file.
   Use PICkit3 or another programmer to upload the HEX file to the PIC16F877A microcontroller.
   Connect the hardware components as per the circuit diagram.
-  Power the circuit and test the Morse code output!
+  Power the circuit and test the Morse code output!.
 
 📜 Included Files
-  Assembly Code (main.asm) Morse Code.pdsprj->FIRMWARE->PIC16F877A->main.asm
-  PowerPoint Presentation (Secured Message Transferrer.pptx)
+  Assembly Code (main.asm) Morse Code.pdsprj->FIRMWARE->PIC16F877A->main.asm.
+  PowerPoint Presentation (Secured Message Transferrer.pptx).
 
 🏆 Future Enhancements
-  Add an LCD Display to show the Morse code output
-  Implement manual input using push buttons
-  Improve accuracy and speed of Morse code transmission
-  Add sensor that can detect morse code and convert it to english
+  Add an LCD Display to show the Morse code output.
+  Implement manual input using push buttons.
+  Improve accuracy and speed of Morse code transmission.
+  Add sensor that can detect morse code and convert it to english.
 
 🤝 Contributing
-  If you have suggestions or improvements, feel free to open issues or submit pull requests!
+  If you have suggestions or improvements, feel free to open issues or submit pull requests!.
 
 📜 License
 This project is licensed under the MIT License.
